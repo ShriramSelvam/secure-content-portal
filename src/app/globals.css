@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: #f6f7f5;
+  color: #161a20;
+}
+
+* {
+  border-color: #dde1e6;
+}
+
+::selection {
+  background-color: #0f6e6333;
+}
